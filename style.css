@@ -420,6 +420,7 @@ footer .newsletter-form input[type="email"] {
 }
 
 footer .newsletter-form button {
+    display: flex;
     padding: 12px 20px;
     background-color: #00335c;
     color: #fbe7c6;
@@ -714,5 +715,6 @@ footer .newsletter-benefits li::before {
     #prodetails .single-pro-details{
         width: 100%;
     }
+
 
 }
